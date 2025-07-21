@@ -5,6 +5,8 @@ https://vscode.dev/github/testdriverai/test-vscode-dev
 
 And you'll see a prompt to install the Python extension
 
+We should see if this works for testdriver.
+
 ## todo
 
 - [ ] Release VS Code extension publicly
